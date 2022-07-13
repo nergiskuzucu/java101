@@ -3,9 +3,9 @@ java101 | patika.dev
 
 
 # Çalışmalar
-* Not Ortalaması Hesaplayan Program
-* KDV Tutarı Hesaplayan Program
-* Dik Üçgende Hipotenüs Bulan Program
+* [Not Ortalaması Hesaplayan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/notOrtalamasi.java)
+* [KDV Tutarı Hesaplayan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/kdvTutari.java)
+* [Dik Üçgende Hipotenüs Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/ucgenCevre.java)
 * Taksimetre Hesaplayan Program
 * Dairenin Alanını ve Çevresini Bulan Program
 * Vücut Kitle İndeksi Hesaplayan Program
@@ -70,4 +70,3 @@ java101 | patika.dev
 * Coderbyte Challenge
 
 
-* [java101](https://github.com/nergiskuzucu/java101/blob/main/README.md)
