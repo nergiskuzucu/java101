@@ -4,6 +4,7 @@ java101 | patika.dev
 
 # Çalışmalar
 * Not Ortalaması Hesaplayan Program
+<! ---[uniYonetimSis](https://github.com/nergiskuzucu/patika-oop/blob/main/uniYonetimSis.md)--->
 * KDV Tutarı Hesaplayan Program
 * Dik Üçgende Hipotenüs Bulan Program
 * Taksimetre Hesaplayan Program
