@@ -7,9 +7,9 @@ java101 | patika.dev
 * [KDV Tutarı Hesaplayan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/kdvTutari.java)
 * [Dik Üçgende Hipotenüs Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/ucgenCevre.java)
 * [Taksimetre Hesaplayan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/taksimetre.java)
-* Dairenin Alanını ve Çevresini Bulan Program
-* Vücut Kitle İndeksi Hesaplayan Program
-* Manav Kasa Programı
+* [Dairenin Alanını ve Çevresini Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/daireHesap.java)
+* [Vücut Kitle İndeksi Hesaplayan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/vucutkitle.java)
+* [Manav Kasa Programı](https://github.com/nergiskuzucu/java101/blob/main/odevler/manav.java)
 
 
 
