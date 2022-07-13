@@ -6,7 +6,7 @@ java101 | patika.dev
 * [Not Ortalaması Hesaplayan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/notOrtalamasi.java)
 * [KDV Tutarı Hesaplayan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/kdvTutari.java)
 * [Dik Üçgende Hipotenüs Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/ucgenCevre.java)
-* Taksimetre Hesaplayan Program
+* [Taksimetre Hesaplayan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/taksimetre.java)
 * Dairenin Alanını ve Çevresini Bulan Program
 * Vücut Kitle İndeksi Hesaplayan Program
 * Manav Kasa Programı
