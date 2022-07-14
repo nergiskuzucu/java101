@@ -13,15 +13,15 @@ java101 | patika.dev
 
 
 
-* Hesap Makinesi
-* Kullanıcı Girişi
-* Sınıfı Geçme Durumu
-* Hava Sıcaklığına Göre Etkinlik Önerme
-* Sayıları Büyükten Küçüğe Sıralama
-* Burç Bulan Program
-* Uçak Bileti Fiyatı Hesaplama
-* Çin Zodyağı Hesaplama
-* Artık YIl Hesaplama
+* [Hesap Makinesi](https://github.com/nergiskuzucu/java101/blob/main/odevler/hesapMakinesi.java)
+* [Kullanıcı Girişi](https://github.com/nergiskuzucu/java101/blob/main/odevler/login.java)
+* [Sınıfı Geçme Durumu](https://github.com/nergiskuzucu/java101/blob/main/odevler/gectiKaldi.java)
+* [Hava Sıcaklığına Göre Etkinlik Önerme](https://github.com/nergiskuzucu/java101/blob/main/odevler/etkinlik.java)
+* [Sayıları Büyükten Küçüğe Sıralama](https://github.com/nergiskuzucu/java101/blob/main/odevler/siralama.java)
+* [Burç Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/burc.java)
+* [Uçak Bileti Fiyatı Hesaplama](https://github.com/nergiskuzucu/java101/blob/main/odevler/ucakBileti.java)
+* [Çin Zodyağı Hesaplama](https://github.com/nergiskuzucu/java101/blob/main/odevler/zodyak.java)
+* [Artık YIl Hesaplama](https://github.com/nergiskuzucu/java101/blob/main/odevler/artikYil.java)
 
 
 * Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program
