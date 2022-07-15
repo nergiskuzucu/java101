@@ -1,7 +1,5 @@
 import java.util.Scanner;
-/**
- * usAlma
- */
+
 public class usluSayi {
 
     public static void main(String[] args) {
