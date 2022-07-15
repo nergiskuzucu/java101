@@ -24,49 +24,50 @@ java101 | patika.dev
 * [Artık YIl Hesaplama](https://github.com/nergiskuzucu/java101/blob/main/odevler/artikYil.java)
 
 
-* Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program
-* Tek Sayıların Toplamını Bulan Program
-* Girilen Sayıdan Küçük 2’nin Kuvvetlerini Bulan Program
-* Faktöriyel Hesaplayan Program
-* Üslü Sayı Hesaplayan Program
-* Armstrong Sayıları Bulan Program
-* Harmonik Sayıları Bulan Program
-* Yıldızlar ile Üçgen Yapımı
-* ATM Projesi
-* EBOB-EKOK Bulan Program
-* Girilen Sayılardan Min ve Max Değerleri Bulma
-* Mükemmel Sayı Bulan Program
-* Ters Üçgen Yapımı
-* 1-100 Arasındaki Asal Sayıları Bulan Program
-* Fibonacci Serisi
+* [Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/ciftSayilar.java)
+* [Tek Sayıların Toplamını Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/tekSayilar.java)
+* [Girilen Sayıdan Küçük 2’nin Kuvvetlerini Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/kuvvetler.java)
+* [Faktöriyel Hesaplayan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/kombinasyon.java)
+* [Üslü Sayı Hesaplayan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/usluSayi.java)
+*  ---
+* [Armstrong Sayıları Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/armstrong.java)
+* [Harmonik Sayıları Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/harmonik.java)
+* [Yıldızlar ile Üçgen Yapımı](https://github.com/nergiskuzucu/java101/blob/main/odevler/ucgenYildiz.java)
+* [ATM Projesi](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [EBOB-EKOK Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Girilen Sayılardan Min ve Max Değerleri Bulma](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Mükemmel Sayı Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Ters Üçgen Yapımı](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [1-100 Arasındaki Asal Sayıları Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Fibonacci Serisi](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
 
 
-* Palindrom Sayılar
-* Recursive ile Fibonacci Serisi Bulan Program
-* Gelişmiş Hesap Makinesi
-* Üs Hesabı Yapan Program
-* Asal Sayı Bulan Program
-* Desene Göre Metot Oluşturma
+* [Palindrom Sayılar](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Recursive ile Fibonacci Serisi Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Gelişmiş Hesap Makinesi](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Üs Hesabı Yapan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Asal Sayı Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Desene Göre Metot Oluşturma](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
 
-* Öğrenci Bilgi Sistemi
-* Boks Oyunu
-* Maaş Hesaplayıcı
+* [Öğrenci Bilgi Sistemi](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Boks Oyunu](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Maaş Hesaplayıcı](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
 
-* Dizideki Elemanların Ortalamasını Bulan Program
-* Dizideki Maksimum ve Minimum Değerleri Bulan Program
-* Çok Boyutlu Diziler ile A Harfi Yazdıran Program
-* Dizideki Tekrar Eden Sayıları Bulan Program
-* Dizideki Elemanları Sıralama
-* Dizideki Elemanların Frekansı
-* Matris Transpozunu Bulma
+* [Dizideki Elemanların Ortalamasını Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Dizideki Maksimum ve Minimum Değerleri Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Çok Boyutlu Diziler ile A Harfi Yazdıran Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Dizideki Tekrar Eden Sayıları Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Dizideki Elemanları Sıralama](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Dizideki Elemanların Frekansı](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Matris Transpozunu Bulma](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
 
-* Sayı Tahmin Oyunu
-* Palindromik Kelimleri Bulan Program
+* [Sayı Tahmin Oyunu](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
+* [Palindromik Kelimleri Bulan Program](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
 
 # Bitirme Projesi
-* Mayın Tarlası Oyunu
+* [Mayın Tarlası Oyunu](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
 
 # Coderbyte Challenge
-* Coderbyte Challenge
+* [Coderbyte Challenge](https://github.com/nergiskuzucu/java101/blob/main/odevler/atmProjesi.java)
 
 
